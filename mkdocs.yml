@@ -24,6 +24,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Agents: agents.md
+  - Tasks: tasks.md
+  - Crew: crew.md
 
 extra:
   include_code: ['src']
